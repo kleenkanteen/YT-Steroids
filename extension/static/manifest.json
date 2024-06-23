@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "YT Sub Steroids",
+    "version": "0.1.0",
+    "description": "Subscribe to a youtube channel's past videos.",
+    "action": {
+      "default_title": "YT Sub Steroids",
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "storage"
+    ]
+  }
